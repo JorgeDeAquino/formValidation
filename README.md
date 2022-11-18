@@ -4,9 +4,9 @@ Deseja conferir como ficou o resultado do projeto? Teste a funcionalidade atrav�
 
 ## **Demonstração Desktop💻⌨🖱**
 <div>
-<img src="./img-readme/tela-1.png" height="200px" width="290px">
-<img src="./img-readme/tela-2.png" height="200px" width="290px"> 
-<img src="./img-readme/tela-3.png" height="200px" width="290px"> 
+<img src="./img-readme/tela-1.png" height="200px" width="490px">
+<img src="./img-readme/tela-2.png" height="200px" width="490px"> 
+<img src="./img-readme/tela-3.png" height="200px" width="490px"> 
 </div>
 
 <h2>Sobre o Projeto:</h2>
